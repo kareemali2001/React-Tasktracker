@@ -1,7 +1,8 @@
-Task Tracker
+**Task Tracker
+**
 Welcome to the Task Tracker project! This is a simple and efficient task tracking application built with React. The purpose of this project is to provide users with a straightforward tool to manage and track their tasks.
 
-Features
+**Features**
 Add Tasks: Quickly add new tasks with descriptions.
 Edit Tasks: Modify the details of existing tasks.
 Delete Tasks: Remove tasks that are no longer needed.
